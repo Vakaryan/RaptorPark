@@ -2,7 +2,7 @@
 OpenGL project for JIN course at Télécom SudParis.
 
 
-How to play
+How to play:
 - Move raptor with ZQSD
 - Move camera angle with the MOUSE
 - When in a fight, attack with SPACE
